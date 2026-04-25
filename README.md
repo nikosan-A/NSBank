@@ -101,4 +101,4 @@ This creates the `nsbankdb` database with the `users` and `transactions` tables 
 - Make sure XAMPP MySQL is running **before** launching the app.
 - Default MySQL credentials in `DBConnection.java`: user = `root`, password = `` (empty).
   Change these if your XAMPP has a different password.
-- This project is for **educational purposes only**.
+- This project is for **Portfolio purposes only - Francis Nikko Altares**.
