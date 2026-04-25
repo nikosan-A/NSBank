@@ -70,11 +70,11 @@ This creates the `nsbankdb` database with the `users` and `transactions` tables 
 
 | Role  | Mobile Number | MPIN |
 |-------|--------------|------|
-| Admin | 09999999999  | 0000 |
-| User  | 09111111111  | 1111 |
-| User  | 09222222222  | 2222 |
-| User  | 09333333333  | 3333 |
-| User  | 09444444444  | 4444 |
+| Admin | 09999999999  | 000000 |
+| User  | 09111111111  | 111111 |
+| User  | 09222222222  | 222222 |
+| User  | 09333333333  | 333333 |
+| User  | 09444444444  | 444444 |
 
 ---
 
